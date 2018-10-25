@@ -7,6 +7,7 @@ public class MainApp {
 		System.out.println("Goodbye, cruel world.");
 		System.out.println("So long and thanks for all the fish!");
 		System.out.println("Howdy.");
+		System.out.println("Caffeine seems like a good idea about now...");
 
 	}
 
